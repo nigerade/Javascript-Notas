@@ -1,7 +1,7 @@
-<h1 align="center"> Projeto Javascript - Data</h1>
+<h1 align="center"> Projeto Javascript - Notas</h1>
 
 <p align="center">
-Projeto Javascript - Data
+Projeto Javascript - Notas
 </p>
 
 ---
@@ -27,9 +27,9 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 ## 🚧 Projeto
 
-Projeto de Javascript que puxa de uma biblioteca Javascript Hora, Minutos, Dia e Retorna uma mensagem padrão de acordo com o horário que o usuário acessar o site. Exemplo: Bom dia! Hoje é sexta-feira, 19 de maio de 2023 - 09:51hs.
-Projeto realizado durante a matéria ILP-540 pela Fatec São Paulo. Projeto 2 de 5 projetos que devem ser entregues para complementar a nota do Semestre.
+Projeto de Javascript onde o usuário Entra com 2 notas e o Programa retorna com a Média Aritmética.
+Projeto realizado durante a matéria ILP-540 pela Fatec São Paulo. Projeto 3 de 5 projetos que devem ser entregues para complementar a nota do Semestre.
 
-Você pode ver o site nesse link: [Javascript - Data](https://nigerade.github.io/Javascript-Data/)
+Você pode ver o site nesse link: [Javascript - Notas](https://nigerade.github.io/Javascript-Data/)
 
 --- 
